@@ -2,7 +2,7 @@ public class hey
 {
 public static void main(string args [])
 {
-for(i=0;i++;i<=9)
+for(i=0;i<=9;i++)
 {
 system.out.println ("This is line no" +i);
 }
