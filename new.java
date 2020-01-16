@@ -1,4 +1,4 @@
-public class hey
+public class new
 {
 public static void main(string args [])
 {
